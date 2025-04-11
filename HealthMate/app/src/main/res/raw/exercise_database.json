@@ -1,0 +1,202 @@
+[
+  {
+    "id": "e001",
+    "name": "Push-Ups",
+    "bodyPart": "Chest",
+    "description": "A classic exercise that targets your chest, shoulders, triceps, and core muscles.",
+    "instructions": "1. Start in a plank position with your hands slightly wider than shoulder-width apart.\n2. Keep your back straight and core engaged.\n3. Lower your body until your chest nearly touches the floor.\n4. Push yourself back up to the starting position.\n5. Repeat for 3 sets of 10-15 repetitions.",
+    "durationInMinutes": 10,
+    "caloriesBurned": 100,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e002",
+    "name": "Squats",
+    "bodyPart": "Legs",
+    "description": "One of the best exercises for building lower body strength and stability.",
+    "instructions": "1. Stand with feet shoulder-width apart.\n2. Keep your chest up and back straight.\n3. Bend your knees and lower your hips as if sitting in a chair.\n4. Lower until thighs are parallel to the ground (or as low as comfortable).\n5. Return to the starting position by pushing through your heels.\n6. Repeat for 3 sets of 15-20 repetitions.",
+    "durationInMinutes": 12,
+    "caloriesBurned": 120,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e003",
+    "name": "Plank",
+    "bodyPart": "Abs",
+    "description": "An isometric core exercise that improves stability and strengthens your abdominals.",
+    "instructions": "1. Start in a push-up position but with your weight on your forearms.\n2. Keep your elbows directly beneath your shoulders.\n3. Form a straight line from your head to your heels.\n4. Engage your abdominals and hold this position.\n5. Start with 30 seconds and gradually increase time.\n6. Perform 3 sets with 30-60 second holds.",
+    "durationInMinutes": 5,
+    "caloriesBurned": 50,
+    "difficultyLevel": "Easy"
+  },
+  {
+    "id": "e004",
+    "name": "Lunges",
+    "bodyPart": "Legs",
+    "description": "A unilateral exercise that helps build balance, coordination, and leg strength.",
+    "instructions": "1. Stand tall with feet hip-width apart.\n2. Step forward with one leg and lower your hips until both knees are bent at about 90 degrees.\n3. Keep your front knee above your ankle and don't let your back knee touch the floor.\n4. Push back up to the starting position.\n5. Alternate legs and repeat for 3 sets of 10-12 lunges per leg.",
+    "durationInMinutes": 10,
+    "caloriesBurned": 90,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e005",
+    "name": "Bicycle Crunches",
+    "bodyPart": "Abs",
+    "description": "An effective exercise that targets all the muscles of your abdominal region.",
+    "instructions": "1. Lie on your back with hands behind your head and knees bent.\n2. Bring your knees toward your chest and lift your shoulder blades off the ground.\n3. Straighten your right leg while turning your upper body left, bringing your right elbow toward your left knee.\n4. Switch sides, bringing left elbow to right knee.\n5. Continue alternating in a pedaling motion for 3 sets of 15-20 repetitions per side.",
+    "durationInMinutes": 8,
+    "caloriesBurned": 80,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e006",
+    "name": "Tricep Dips",
+    "bodyPart": "Arms",
+    "description": "An exercise that targets the triceps using your body weight.",
+    "instructions": "1. Sit on the edge of a sturdy chair or bench with hands gripping the edge beside your hips.\n2. Slide your butt off the edge with legs extended or knees bent at 90 degrees.\n3. Lower your body by bending your elbows to about 90 degrees.\n4. Push back up until your arms are straight.\n5. Repeat for 3 sets of 10-15 repetitions.",
+    "durationInMinutes": 8,
+    "caloriesBurned": 70,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e007",
+    "name": "Superman",
+    "bodyPart": "Back",
+    "description": "A simple exercise that strengthens the lower back, glutes, and shoulders.",
+    "instructions": "1. Lie face down on a mat with arms extended in front of you and legs straight.\n2. Simultaneously raise your arms, chest, and legs off the ground.\n3. Hold for 2-3 seconds at the top.\n4. Lower and repeat for 3 sets of 10-12 repetitions.",
+    "durationInMinutes": 6,
+    "caloriesBurned": 60,
+    "difficultyLevel": "Easy"
+  },
+  {
+    "id": "e008",
+    "name": "Jumping Jacks",
+    "bodyPart": "Full Body",
+    "description": "A classic cardio exercise that raises your heart rate and works multiple muscle groups.",
+    "instructions": "1. Stand with feet together and arms at your sides.\n2. Jump while spreading your legs and raising your arms above your head.\n3. Jump again, bringing your arms and legs back to the starting position.\n4. Repeat at a quick pace for 3 sets of 30 seconds to 1 minute.",
+    "durationInMinutes": 10,
+    "caloriesBurned": 100,
+    "difficultyLevel": "Easy"
+  },
+  {
+    "id": "e009",
+    "name": "Mountain Climbers",
+    "bodyPart": "Full Body",
+    "description": "A dynamic exercise that works your core, shoulders, and legs while raising your heart rate.",
+    "instructions": "1. Start in a push-up position with arms straight.\n2. Quickly bring one knee toward your chest, then return it to the starting position.\n3. Alternate legs in a running motion.\n4. Keep your hips low and core engaged throughout.\n5. Perform for 3 sets of 30 seconds each.",
+    "durationInMinutes": 9,
+    "caloriesBurned": 110,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e010",
+    "name": "Glute Bridges",
+    "bodyPart": "Legs",
+    "description": "An exercise that targets your glutes, hamstrings, and lower back.",
+    "instructions": "1. Lie on your back with knees bent and feet flat on the floor.\n2. Keep arms at your sides with palms facing down.\n3. Squeeze your glutes and lift your hips off the ground until your body forms a straight line from shoulders to knees.\n4. Hold for 1-2 seconds at the top.\n5. Lower and repeat for 3 sets of 15-20 repetitions.",
+    "durationInMinutes": 7,
+    "caloriesBurned": 65,
+    "difficultyLevel": "Easy"
+  },
+  {
+    "id": "e011",
+    "name": "Arm Circles",
+    "bodyPart": "Arms",
+    "description": "A simple shoulder exercise that improves mobility and tones the shoulders and arms.",
+    "instructions": "1. Stand with feet shoulder-width apart.\n2. Extend your arms out to the sides at shoulder height.\n3. Make small circles with your arms, gradually increasing the size.\n4. Reverse direction after 30 seconds.\n5. Perform for 3 sets of 1 minute each (30 seconds in each direction).",
+    "durationInMinutes": 5,
+    "caloriesBurned": 40,
+    "difficultyLevel": "Easy"
+  },
+  {
+    "id": "e012",
+    "name": "Russian Twists",
+    "bodyPart": "Abs",
+    "description": "An exercise that targets your obliques and improves core stability.",
+    "instructions": "1. Sit on the floor with knees bent and feet flat.\n2. Lean back slightly, keeping your back straight.\n3. Clasp your hands together in front of your chest.\n4. Twist your torso to the right, then to the left.\n5. Each twist counts as one repetition. Repeat for 3 sets of 15-20 twists.",
+    "durationInMinutes": 7,
+    "caloriesBurned": 75,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e013",
+    "name": "Wall Sit",
+    "bodyPart": "Legs",
+    "description": "An isometric exercise that builds endurance in your quadriceps, hamstrings, and glutes.",
+    "instructions": "1. Stand with your back against a wall, feet shoulder-width apart and about 2 feet from the wall.\n2. Slide down the wall until your thighs are parallel to the ground.\n3. Keep your back flat against the wall.\n4. Hold this position for 30-60 seconds.\n5. Perform 3 sets with 30-60 second holds.",
+    "durationInMinutes": 6,
+    "caloriesBurned": 70,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e014",
+    "name": "Diamond Push-Ups",
+    "bodyPart": "Arms",
+    "description": "A variation of push-ups that emphasizes the triceps.",
+    "instructions": "1. Start in a push-up position.\n2. Place your hands close together in a diamond shape (index fingers and thumbs touching).\n3. Keep your back straight and core engaged.\n4. Lower your chest toward your hands.\n5. Push back up to the starting position.\n6. Repeat for 3 sets of 8-12 repetitions.",
+    "durationInMinutes": 8,
+    "caloriesBurned": 90,
+    "difficultyLevel": "Hard"
+  },
+  {
+    "id": "e015",
+    "name": "Burpees",
+    "bodyPart": "Full Body",
+    "description": "A high-intensity exercise that combines a squat, push-up, and jump for full-body conditioning.",
+    "instructions": "1. Start standing with feet shoulder-width apart.\n2. Drop into a squat position and place hands on the floor.\n3. Kick feet back into a plank position.\n4. Perform a push-up (optional for beginners).\n5. Jump feet back to squat position.\n6. Jump up with arms overhead.\n7. Repeat for 3 sets of 10-15 repetitions.",
+    "durationInMinutes": 12,
+    "caloriesBurned": 150,
+    "difficultyLevel": "Hard"
+  },
+  {
+    "id": "e016",
+    "name": "Bird Dog",
+    "bodyPart": "Back",
+    "description": "A core stabilizing exercise that also strengthens the back and improves balance.",
+    "instructions": "1. Start on all fours with hands under shoulders and knees under hips.\n2. Extend your right arm forward and left leg backward simultaneously.\n3. Keep your back flat and core engaged.\n4. Return to starting position and repeat with left arm and right leg.\n5. Alternate sides for 3 sets of 10-12 repetitions per side.",
+    "durationInMinutes": 7,
+    "caloriesBurned": 55,
+    "difficultyLevel": "Easy"
+  },
+  {
+    "id": "e017",
+    "name": "Flutter Kicks",
+    "bodyPart": "Abs",
+    "description": "A lower abdominal exercise that also engages the hip flexors.",
+    "instructions": "1. Lie on your back with legs extended and hands under your glutes.\n2. Lift both legs slightly off the ground.\n3. Raise one leg higher, then switch legs in a fluttering motion.\n4. Keep your lower back pressed into the floor throughout the movement.\n5. Continue for 3 sets of 30 seconds each.",
+    "durationInMinutes": 6,
+    "caloriesBurned": 65,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e018",
+    "name": "Calf Raises",
+    "bodyPart": "Legs",
+    "description": "A simple exercise to strengthen the calf muscles.",
+    "instructions": "1. Stand with feet hip-width apart, ideally with the balls of your feet on a slightly raised surface.\n2. Raise your heels by pushing through the balls of your feet.\n3. Pause at the top, feeling your calves contract.\n4. Lower your heels back down below the level of the surface if possible.\n5. Repeat for 3 sets of 15-20 repetitions.",
+    "durationInMinutes": 5,
+    "caloriesBurned": 45,
+    "difficultyLevel": "Easy"
+  },
+  {
+    "id": "e019",
+    "name": "Seated Shoulder Press",
+    "bodyPart": "Arms",
+    "description": "A bodyweight exercise that targets the shoulders and upper back.",
+    "instructions": "1. Sit on the edge of a chair with good posture.\n2. Raise your arms to shoulder height, elbows bent at 90 degrees, palms facing forward.\n3. Press your arms overhead until they're fully extended.\n4. Slowly lower back to the starting position.\n5. Repeat for 3 sets of 12-15 repetitions.",
+    "durationInMinutes": 7,
+    "caloriesBurned": 60,
+    "difficultyLevel": "Medium"
+  },
+  {
+    "id": "e020",
+    "name": "Cobra Stretch",
+    "bodyPart": "Back",
+    "description": "A yoga pose that stretches the spine and strengthens the back muscles.",
+    "instructions": "1. Lie face down with hands under shoulders, elbows close to body.\n2. Keeping hips on the ground, gently push through your hands to lift chest off the floor.\n3. Keep a slight bend in the elbows and shoulders away from ears.\n4. Hold for 15-30 seconds while breathing deeply.\n5. Lower down and repeat 3-5 times.",
+    "durationInMinutes": 5,
+    "caloriesBurned": 30,
+    "difficultyLevel": "Easy"
+  }
+]

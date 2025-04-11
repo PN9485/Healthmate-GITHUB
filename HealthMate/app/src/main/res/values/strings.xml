@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HealthMate</string>
+    
+    <!-- Main Activity -->
+    <string name="food_button">Food Suggestions</string>
+    <string name="exercise_button">Exercise Suggestions</string>
+    <string name="app_description">Your personal health and fitness companion</string>
+    
+    <!-- Exercise Suggestions Activity -->
+    <string name="exercise_suggestions_title">Exercise Suggestions</string>
+    <string name="body_part_prompt">Select a body part to target</string>
+    <string name="search_exercises">Search exercises</string>
+    <string name="loading_exercises">Loading exercises...</string>
+    <string name="error_loading_exercises">Failed to load exercises. Please try again.</string>
+    <string name="no_exercises_found">No exercises found. Try another category or search term.</string>
+    
+    <!-- Exercise Detail Activity -->
+    <string name="exercise_detail_title">Exercise Details</string>
+    <string name="secondary_muscles">Secondary Muscles:</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="no_instructions">No instructions available for this exercise.</string>
+    
+    <!-- Food Suggestions Activity -->
+    <string name="food_suggestions_title">Food Suggestions</string>
+    <string name="search_foods">Search foods</string>
+    <string name="loading_foods">Loading food information...</string>
+    <string name="error_loading_foods">Failed to load food information. Please try again.</string>
+    <string name="no_foods_found">No foods found. Try another search term.</string>
+    
+    <!-- Common -->
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>
